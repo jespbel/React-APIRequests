@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #160f29;
+  background-color: #dea3f3;
 }
 
 .title {
@@ -23,6 +23,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  color: aliceblue;
 }
 
 .gif-card {
@@ -36,3 +37,4 @@ body {
 .gif-card img {
   width: 100%;
 }
+

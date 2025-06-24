@@ -1,6 +1,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-// import axios from "axios"; // Maybe we'll need axios? 🤔
+import axios from "axios"; // Maybe we'll need axios? 🤔
 import "./style.css";
 
 // const GIPHY_API_KEY = "YOUR_API_KEY";
